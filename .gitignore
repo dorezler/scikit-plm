@@ -1,0 +1,5 @@
+# Python artifacts
+__pycache__/
+build/
+*.egg-info/
+*.py[cod]
